@@ -1,4 +1,4 @@
-# @obinexusltd/obix-state-minimizer
+# @obinexusltd/obix-core-state-minimizer
 
 > Minimize HTML/CSS component element state transitions using formal automaton
 > theory. Part of the [OBIX](https://github.com/obinexusmk2/obix) ecosystem.
